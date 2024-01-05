@@ -133,9 +133,10 @@ Starting Money: 120gp
 ### Feats
 | Level | Feat |
 | ----------- | -----------
-|1|Improved Initiative
+|1|Extra Hex: Cackle
 
 ### Hexes
 | Level | Hex |
 | ----------- | -----------
 |1|Slumber
+|1|Cackle
