@@ -133,10 +133,10 @@ Starting Money: 120gp
 ### Feats
 | Level | Feat |
 | ----------- | -----------
-|1|Extra Hex: Cackle
+|1|Extra Hex: Evil Eye
 
 ### Hexes
 | Level | Hex |
 | ----------- | -----------
 |1|Slumber
-|1|Cackle
+|1|Evil Eye
