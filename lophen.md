@@ -39,8 +39,8 @@ No +1 armor/weapons/cloak
 > Select two of the following skills: Acrobatics, Bluff, Climb, Diplomacy, Disguise, Escape Artist, Fly, Knowledge (nature), Perception, Perform, Sense Motive, Sleight of Hand, Stealth, Swim, or Use Magic Device. The selected skills are always class skills for the character. This trait replaces racial weapon familiarity.
 
 ### Traits
-- Elven Reflexes
-> You gain a +2 trait bonus on initiative checks.
+- Trap Finder
+> You gain a +1 trait bonus on Disable Device checks, and that skill is always a class skill for you. In addition, you can use Disable Device to disarm magic traps, like a rogue.
 - Clever Wordplay (Diplomacy)
 > Choose one Charisma-based skill. You attempt checks with that skill using your Intelligence modifier instead of your Charisma modifier.
 
@@ -113,11 +113,12 @@ Starting Money: 120gp
 | ----------- | ----------- | -----------
 | | Craft (Int)|+4
 |1| Diplomacy (Int)|+8
+|1| Disable Device (Dex)|+9
 | | Fly (Dex)|+4
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
 |1| Knowledge (arcana) (Int)|+8
-|1| Knowledge (history) (Int)|+8
+| | Knowledge (history) (Int)|+4
 | | Knowledge (nature) (Int)|+4
 |1| Knowledge (planes) (Int)|+8
 |1| Perception (Wis)|+8
