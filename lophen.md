@@ -102,7 +102,7 @@ Starting Money: 120gp
 ### Spells Per Day
 |0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|
-|3|1|-|-|-|-|-|-|-|-|
+|4|3|-|-|-|-|-|-|-|-|
 
 ### Familiar
 - Greensting Scorption (+4 Initiative)
@@ -112,24 +112,24 @@ Starting Money: 120gp
 | Ranks | Skill | Bonus
 | ----------- | ----------- | -----------
 | | Craft (Int)|+4
-|1| Diplomacy (Int)|+8
-|1| Disable Device (Dex)|+9
+|2| Diplomacy (Int)|+9
+|2| Disable Device (Dex)|+10
 | | Fly (Dex)|+4
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|1| Knowledge (arcana) (Int)|+8
+|2| Knowledge (arcana) (Int)|+9
 | | Knowledge (history) (Int)|+4
 | | Knowledge (nature) (Int)|+4
-|1| Knowledge (planes) (Int)|+8
-|1| Perception (Wis)|+8
+|2| Knowledge (planes) (Int)|+9
+|2| Perception (Wis)|+9
 | | Profession (Wis)|+2
-|1| Spellcraft (Int)|+8
+|2| Spellcraft (Int)|+9
 | | Use Magic Device (Cha)|-2
 
 ### Saves
 |Fort|Ref|Will
 |-|-|-
-|0|0|+2
+|+2|+4|+5
 
 ### Feats
 | Level | Feat |
@@ -141,3 +141,4 @@ Starting Money: 120gp
 | ----------- | -----------
 |1|Slumber
 |1|Evil Eye
+|2|Cackle
