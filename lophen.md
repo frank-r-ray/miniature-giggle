@@ -58,6 +58,15 @@ Point Buy: 30
 ### Equipment
 Starting Money: 120gp
 
+|Cost|Item
+|-|-
+|35|Light Crossbow
+|2|Bolts x20
+|Free|Courtesans Outfit
+|25|Scroll of Cure Light Wounds
+|25|Scroll of Cure Light Wounds
+|25|Scroll of Cure Light Wounds
+
 ### Class: Witch
 - Archtype: None
 
@@ -95,9 +104,15 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|Level|Spell
-|-|-
-|1|Mage Armor
+|1
+|-
+Mage Armor
+Sleep
+Command
+Web Bolt
+Ear Piercing Scream
+Charm Person
+Unseen Servant
 
 ### Spells Per Day
 |0|1|2|3|4|5|6|7|8|9
