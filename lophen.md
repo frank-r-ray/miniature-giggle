@@ -23,7 +23,7 @@ No +1 armor/weapons/cloak
 
 Level: 3/4
 
-HP: 18/27
+HP: 27/36
 
 ### Race: Elf
 - +2 Int
