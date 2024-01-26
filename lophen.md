@@ -160,7 +160,7 @@ Starting Money: 120gp
 | Level | Feat |
 | ----------- | -----------
 |1|Extra Hex: Evil Eye
-|3|Extra Hex: Protective Luck
+|3|Accursed Hex
 
 ### Hexes
 | Level | Hex |
@@ -168,5 +168,4 @@ Starting Money: 120gp
 |1|Slumber
 |1|Evil Eye
 |2|Cackle
-|3|Protective Luck
-|4|Prehensile Hair
+|4|Misfortune
