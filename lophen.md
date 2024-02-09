@@ -21,9 +21,9 @@ No +1 armor/weapons/cloak
 ## Character
 ### Name: Lophen
 
-Level: 3/4
+Level: 4
 
-HP: 27/36
+HP: 36
 
 ### Race: Elf
 - +2 Int
@@ -131,8 +131,8 @@ Starting Money: 120gp
 - Greensting Scorpion (+4 Initiative)
 
 ### Skills
-2 + Int (6)
-| Ranks | Skill | Bonus 3/4
+2 + Int (7)
+| Ranks | Skill | Bonus
 | ----------- | ----------- | -----------
 | | Craft (Int)|+5
 |4| Diplomacy (Int)|+12
