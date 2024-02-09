@@ -50,14 +50,14 @@ HP: 27/36
 
 ### Stats
 Point Buy: 30
-| Stat | Score | Racial | Total | Bonus
-| ----------- | ----------- | ----------- |----------- | -----------
-|Int|17|+2|19/20|+4/+5
-|Dex|16|+2|18|+4
-|Con|16|-2|14|+2
-|Wis|14||14|+2
-|Str|7||7|-2
-|Cha|7||7|-2
+| Stat | Score | Racial | Level | Total | Bonus
+|-|-|-|-|-|-
+|Int|17|+2|+1|20|+5
+|Dex|16|+2||18|+4
+|Con|16|-2||14|+2
+|Wis|14|||14|+2
+|Str|7|||7|-2
+|Cha|7|||7|-2
 
 ### Equipment
 Starting Money: 120gp
@@ -112,48 +112,46 @@ Starting Money: 120gp
 |-|-
 (1) Mage Armor|(3) Glitterdust
 (1) Sleep|(3) Hold Person
-(1) Command|(4) False Life
+(1) Command|(4) Web
 (1) Web Bolt| (4) Lipstitch
 (1) Ear Piercing Scream|
-(1) Charm Person|
+(1) Delay Disease|
 (1) Unseen Servant|
 (2) Ray of Sickening|
 (2) Ray of Enfeeblement|
 
-### Spells Per Day 3
+### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|3|4|3|2|-|-|-|-|-|-|-|
-|4|4|4|3|-|-|-|-|-|-|-|
+|4|4|5|3|-|-|-|-|-|-|-|
 
 
 
 ### Familiar
-- Greensting Scorption (+4 Initiative)
+- Greensting Scorpion (+4 Initiative)
 
 ### Skills
 2 + Int (6)
 | Ranks | Skill | Bonus 3/4
 | ----------- | ----------- | -----------
-| | Craft (Int)|+4/+5
-|3/4| Diplomacy (Int)|+10/+12
-|3/4| Disable Device (Dex)|+11/+12
+| | Craft (Int)|+5
+|4| Diplomacy (Int)|+12
+|4| Disable Device (Dex)|+12
 | | Fly (Dex)|+4
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|3/4| Knowledge (arcana) (Int)|+10/+12
-|4 | Knowledge (history) (Int)|+4/+12
-| | Knowledge (nature) (Int)|+4/+5
-|3/4| Knowledge (planes) (Int)|+10/+12
-|3/4| Perception (Wis)|+10/+11
+|4| Knowledge (arcana) (Int)|+12
+|4 | Knowledge (history) (Int)|+12
+| | Knowledge (nature) (Int)|+5
+|4| Knowledge (planes) (Int)|+12
+|4| Perception (Wis)|+11
 | | Profession (Wis)|+2
-|3/4| Spellcraft (Int)|+10/+12
+|4| Spellcraft (Int)|+12
 | | Use Magic Device (Cha)|-2
 
 ### Saves
 |Level|Fort|Ref|Will
 |-|-|-|-
-|3|+3|+5|+6
 |4|+3|+5|+7
 
 ### Feats
