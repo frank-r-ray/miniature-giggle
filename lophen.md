@@ -16,14 +16,14 @@
 - [Hexes](#hexes)
 
 ## Restrictions
-No +1 armor/weapons/cloak
+No +X Armor/Weapon/Cloak/Stats
 
 ## Character
 ### Name: Lophen
 
-Level: 4
+Level: 5
 
-HP: 36
+HP: 45
 
 ### Race: Elf
 - +2 Int
@@ -47,17 +47,21 @@ HP: 36
 > You gain a +1 trait bonus on Disable Device checks, and that skill is always a class skill for you. In addition, you can use Disable Device to disarm magic traps, like a rogue.
 - Clever Wordplay (Diplomacy)
 > Choose one Charisma-based skill. You attempt checks with that skill using your Intelligence modifier instead of your Charisma modifier.
+- Honeyed Words
+> You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion that does not provide ongoing control and results in peaceful acts, such as calm emotions, sleep, or a suggestion to lay down arms.
+- Reactionary
+> You gain a +2 trait bonus on initiative checks.
 
 ### Stats
 Point Buy: 30
-| Stat | Score | Racial | Level | Total | Bonus
-|-|-|-|-|-|-
-|Int|17|+2|+1|20|+5
-|Dex|16|+2||18|+4
-|Con|16|-2||14|+2
-|Wis|14|||14|+2
-|Str|7|||7|-2
-|Cha|7|||7|-2
+| Stat | Score | Racial | Level | Mythic | Misc | Total | Bonus
+|-|-|-|-|-|-|-|-
+|Int|17|+2|+1|+2||22|+6
+|Dex|16|+2||||18|+4
+|Con|16|-2||||14|+2
+|Wis|14|||||14|+2
+|Str|7|||||7|-2
+|Cha|7|||||7|-2
 
 ### Equipment
 Starting Money: 120gp
@@ -67,9 +71,9 @@ Starting Money: 120gp
 |35|Light Crossbow
 |2|Bolts x20
 |Free|Courtesans Outfit
-|25|Scroll of Cure Light Wounds
-|25|Scroll of Cure Light Wounds
-|25|Scroll of Cure Light Wounds
+|25|~~Scroll of Cure Light Wounds~~
+|25|~~Scroll of Cure Light Wounds~~
+|25|~~Scroll of Cure Light Wounds~~
 
 ### Class: Witch
 - Archtype: None
@@ -108,57 +112,58 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|1|2
-|-|-
-(1) Mage Armor|(3) Glitterdust
-(1) Sleep|(3) Hold Person
-(1) Command|(4) Web
-(1) Web Bolt| (4) Lipstitch
-(1) Ear Piercing Scream|
-(1) Delay Disease|
+|1|2|3
+|-|-|-
+(1) `Mage Armor`|(3) `Glitterdust`|(5) `Lightning Bolt`
+(1) Sleep|(3) Hold Person|(5) `Barrow Haze`
+(1) Command|(4) `Web`
+(1) `Web Bolt`| (4) `Lipstitch`
+(1) Ear Piercing Scream|(P) Silence
+(1) Delay Disease|(B) `Blindness/Deafness`
 (1) Unseen Servant|
-(2) Ray of Sickening|
-(2) Ray of Enfeeblement|
+(2) `Ray of Sickening`|
+(2) `Ray of Enfeeblement`|
+(P) Ventriloquism
+(B) `Hex Vulnerability`|
 
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|4|4|5|3|-|-|-|-|-|-|-|
-
-
+|5|4|5|4|2|-|-|-|-|-|-|
 
 ### Familiar
 - Greensting Scorpion (+4 Initiative)
 
 ### Skills
-2 + Int (7)
+2 + Int (8)
 | Ranks | Skill | Bonus
 | ----------- | ----------- | -----------
-| | Craft (Int)|+5
-|4| Diplomacy (Int)|+12
-|4| Disable Device (Dex)|+12
+|5| Craft Masks (Int)|+14
+|5| Diplomacy (Int)|+18
+|5| Disable Device (Dex)|+15
 | | Fly (Dex)|+4
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|4| Knowledge (arcana) (Int)|+12
-|4 | Knowledge (history) (Int)|+12
+|5| Knowledge (arcana) (Int)|+14
+|5| Knowledge (history) (Int)|+14
 | | Knowledge (nature) (Int)|+5
-|4| Knowledge (planes) (Int)|+12
-|4| Perception (Wis)|+11
+|5| Knowledge (planes) (Int)|+14
+|5| Perception (Wis)|+20
 | | Profession (Wis)|+2
-|4| Spellcraft (Int)|+12
+|5| Spellcraft (Int)|+14
 | | Use Magic Device (Cha)|-2
 
 ### Saves
 |Level|Fort|Ref|Will
 |-|-|-|-
-|4|+3|+5|+7
+|4|+4|+6|+8
 
 ### Feats
 | Level | Feat |
 | ----------- | -----------
 |1|Extra Hex: Evil Eye
 |3|Accursed Hex
+|5|Ability Focus (Slumber Hex)
 
 ### Hexes
 | Level | Hex |
@@ -167,3 +172,68 @@ Starting Money: 120gp
 |1|Evil Eye
 |2|Cackle
 |4|Misfortune
+
+### Mythic 1
+Mastermind (+2 Int)
+
+### Mythic Feats
+|Level|Feat
+|-|-
+|5|Mythic Skill Focus (Diplomacy, Perception)
+|5|Mythic Resistance (+1 Saves)
+|5|Feat: Additional Traits: Honeyed Words, Reactionary
+
+## Notes
+### Arrived at the Defender's Heart
+- Received 1,215 Gold
+
+|Cost|Item
+|-|-
+|100|Thieves Tools
+|150|~~Scroll of Silence~~
+|150|~~Scroll of Glitterdust~~
+|150|Scroll of Web
+|150|Scroll of See Invisibility
+|150|~~Scroll of Levitate~~
+|5|Spring Loaded Wrist Sheath
+|5|Spring Loaded Wrist Sheath
+
+|Totals|Amount
+|-|-
+|Starting|1,215
+|Spent|860
+|Remaining|355
+
+### Destroyed the Wardstone
+- Received 5,000 in loot
+
+|Cost|Item
+|-|-
+|2500|Eyes of the Eagle
+|375|Scroll of Lightning Bolt
+|375|Scroll of Barrow Haze
+|375|Scroll of Sleet Storm
+|150|~~Scroll of Blindness/Deafness~~ (Learned)
+|150|Scroll of Blindness/Deafness
+|150|Scroll of Lipstitch
+|150|Scroll of Delay Poison
+|150|Scroll of Glitterdust
+|150|Scroll of Levitate
+|25|~~Scroll of Hex Vulnerability~~ (Learned)
+|25|Scroll of Delay Disease
+|25|Scroll of Delay Disease
+|25|Scroll of Delay Disease
+|25|Scroll of Ray of Sickening
+|25|Scroll of Ray of Enfeeblement
+|25|Scroll of Mage Armor
+|25|Scroll of Mage Armor
+|25|Scroll of Remove Sickness
+|25|Scroll of Remove Sickness
+|25|Scroll of Remove Sickness
+|25|Scroll of Hex Vulnerability
+
+|Totals|Amount
+|-|-
+|Starting|5,355
+|Spent|4450
+|Remaining|530
