@@ -114,17 +114,18 @@ Starting Money: 120gp
 
 |1|2|3
 |-|-|-
-(1) `Mage Armor`|(3) `Glitterdust`|(5) `Lightning Bolt`
+(1) `Mage Armor`|(3) `Glitterdust`|(5) `Fly`
 (1) Sleep|(3) Hold Person|(5) `Barrow Haze`
 (1) Command|(4) `Web`
-(1) `Web Bolt`| (4) `Lipstitch`
+(1) `Web Bolt`| (4) Lipstitch
 (1) Ear Piercing Scream|(P) Silence
 (1) Delay Disease|(B) `Blindness/Deafness`
-(1) Unseen Servant|
-(2) `Ray of Sickening`|
+(1) Unseen Servant|(B) `Levitate`
+(2) Ray of Sickening|
 (2) `Ray of Enfeeblement`|
 (P) Ventriloquism
 (B) `Hex Vulnerability`|
+(B) `Blend`|
 
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
@@ -138,19 +139,20 @@ Starting Money: 120gp
 2 + Int (8)
 | Ranks | Skill | Bonus
 | ----------- | ----------- | -----------
-|5| Craft Masks (Int)|+14
-|5| Diplomacy (Int)|+18
+| | Craft  (Int)|+6
+|5| Diplomacy (Int)|+15
 |5| Disable Device (Dex)|+15
 | | Fly (Dex)|+4
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
 |5| Knowledge (arcana) (Int)|+14
 |5| Knowledge (history) (Int)|+14
-| | Knowledge (nature) (Int)|+5
+| | Knowledge (nature) (Int)|+6
 |5| Knowledge (planes) (Int)|+14
 |5| Perception (Wis)|+20
 | | Profession (Wis)|+2
 |5| Spellcraft (Int)|+14
+|5| Stealth (Dex)|+16
 | | Use Magic Device (Cha)|-2
 
 ### Saves
@@ -179,9 +181,9 @@ Mastermind (+2 Int)
 ### Mythic Feats
 |Level|Feat
 |-|-
-|5|Mythic Skill Focus (Diplomacy, Perception)
+|5|Mythic Skill Focus (Stealth, Perception)
 |5|Mythic Resistance (+1 Saves)
-|5|Feat: Additional Traits: Honeyed Words, Reactionary
+|5|Feat: Additional Traits: Honeyed Words, Slippery
 
 ## Notes
 ### Arrived at the Defender's Heart
@@ -210,7 +212,7 @@ Mastermind (+2 Int)
 |Cost|Item
 |-|-
 |2500|Eyes of the Eagle
-|375|Scroll of Lightning Bolt
+|375|Scroll of Fly
 |375|Scroll of Barrow Haze
 |375|Scroll of Sleet Storm
 |150|~~Scroll of Blindness/Deafness~~ (Learned)
@@ -218,6 +220,7 @@ Mastermind (+2 Int)
 |150|Scroll of Lipstitch
 |150|Scroll of Delay Poison
 |150|Scroll of Glitterdust
+|150|~~Scroll of Levitate~~ (Learned)
 |150|Scroll of Levitate
 |25|~~Scroll of Hex Vulnerability~~ (Learned)
 |25|Scroll of Delay Disease
@@ -231,9 +234,12 @@ Mastermind (+2 Int)
 |25|Scroll of Remove Sickness
 |25|Scroll of Remove Sickness
 |25|Scroll of Hex Vulnerability
+|25|~~Scroll of Blend~~ (Learned)
+|25|Scroll of Blend (Learned)
+|25|Scroll of Blend (Learned)
 
 |Totals|Amount
 |-|-
 |Starting|5,355
-|Spent|4450
-|Remaining|530
+|Spent|5050
+|Remaining|305
