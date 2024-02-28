@@ -49,8 +49,8 @@ HP: 45
 > Choose one Charisma-based skill. You attempt checks with that skill using your Intelligence modifier instead of your Charisma modifier.
 - Honeyed Words
 > You receive a +1 trait bonus on Diplomacy checks. In addition, you receive a +1 trait bonus to the DC of any charm or compulsion that does not provide ongoing control and results in peaceful acts, such as calm emotions, sleep, or a suggestion to lay down arms.
-- Reactionary
-> You gain a +2 trait bonus on initiative checks.
+- Slippery
+> You have escaped from so many dangerous situations in your life that you’ve gotten quite good at not getting caught. You gain a +1 trait bonus on Stealth checks and Stealth is a class skill for you.
 
 ### Stats
 Point Buy: 30
@@ -158,7 +158,7 @@ Starting Money: 120gp
 ### Saves
 |Level|Fort|Ref|Will
 |-|-|-|-
-|4|+4|+6|+8
+|4|+4|+6|+7
 
 ### Feats
 | Level | Feat |
