@@ -215,6 +215,7 @@ Mastermind (+2 Int)
 |375|Scroll of Fly
 |375|Scroll of Barrow Haze
 |375|Scroll of Sleet Storm
+|188|Wand of "Cure Light Wounds"
 |150|~~Scroll of Blindness/Deafness~~ (Learned)
 |150|Scroll of Blindness/Deafness
 |150|Scroll of Lipstitch
@@ -237,9 +238,12 @@ Mastermind (+2 Int)
 |25|~~Scroll of Blend~~ (Learned)
 |25|Scroll of Blend (Learned)
 |25|Scroll of Blend (Learned)
+|25|Scroll of Obscuring Mist
+|25|Scroll of Obscuring Mist
+|25|Scroll of Obscuring Mist
 
 |Totals|Amount
 |-|-
 |Starting|5,355
-|Spent|5050
-|Remaining|305
+|Spent|5313
+|Remaining|42
