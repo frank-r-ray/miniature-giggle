@@ -117,11 +117,11 @@ Starting Money: 120gp
 (1) `Mage Armor`|(3) `Glitterdust`|(5) `Fly`
 (1) Sleep|(3) Hold Person|(5) `Barrow Haze`
 (1) Command|(4) `Web` | (6) Lightning Bolt
-(1) `Web Bolt`| (4) `Lipstitch` | (6) Sleet Storm
-(1) Ear Piercing Scream|(P) Silence |(P) `Haste`
-(1) Delay Disease|(B) `Blindness/Deafness`
+(1) `Web Bolt`| (4) Lipstitch | (P) `Haste`
+(1) Ear Piercing Scream|(P) Silence |
+(1) Delay Disease|(B) Blindness/Deafness
 (1) Unseen Servant|(B) `Levitate`
-(2) Ray of Sickening|
+(2) Ray of Sickening| (6) `Raven's Flight x2`
 (2) `Ray of Enfeeblement`|
 (P) Ventriloquism
 (B) `Hex Vulnerability`|
