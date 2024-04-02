@@ -116,9 +116,9 @@ Starting Money: 120gp
 |-|-|-
 (1) `Mage Armor`|(3) `Glitterdust`|(5) `Fly`
 (1) Sleep|(3) Hold Person|(5) `Barrow Haze`
-(1) Command|(4) `Web`
-(1) `Web Bolt`| (4) Lipstitch
-(1) Ear Piercing Scream|(P) Silence
+(1) Command|(4) `Web` | (6) Lightning Bolt
+(1) `Web Bolt`| (4) `Lipstitch` | (6) Sleet Storm
+(1) Ear Piercing Scream|(P) Silence |(P) `Haste`
 (1) Delay Disease|(B) `Blindness/Deafness`
 (1) Unseen Servant|(B) `Levitate`
 (2) Ray of Sickening|
@@ -130,7 +130,7 @@ Starting Money: 120gp
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|5|4|5|4|2|-|-|-|-|-|-|
+|6|4|5|5|3|-|-|-|-|-|-|
 
 ### Familiar
 - Greensting Scorpion (+4 Initiative)
@@ -140,25 +140,25 @@ Starting Money: 120gp
 | Ranks | Skill | Bonus
 | ----------- | ----------- | -----------
 | | Craft  (Int)|+6
-|5| Diplomacy (Int)|+15
-|5| Disable Device (Dex)|+15
+|6| Diplomacy (Int)|+16
+|6| Disable Device (Dex)|+16
 | | Fly (Dex)|+4
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|5| Knowledge (arcana) (Int)|+14
-|5| Knowledge (history) (Int)|+14
+|6| Knowledge (arcana) (Int)|+15
+|6| Knowledge (history) (Int)|+15
 | | Knowledge (nature) (Int)|+6
-|5| Knowledge (planes) (Int)|+14
-|5| Perception (Wis)|+20
+|6| Knowledge (planes) (Int)|+15
+|6| Perception (Wis)|+20
 | | Profession (Wis)|+2
-|5| Spellcraft (Int)|+14
-|5| Stealth (Dex)|+16
+|6| Spellcraft (Int)|+15
+|6| Stealth (Dex)|+17
 | | Use Magic Device (Cha)|-2
 
 ### Saves
 |Level|Fort|Ref|Will
 |-|-|-|-
-|4|+4|+6|+7
+|6|+5|+7|+8
 
 ### Feats
 | Level | Feat |
@@ -174,6 +174,7 @@ Starting Money: 120gp
 |1|Evil Eye
 |2|Cackle
 |4|Misfortune
+|6|Protective Luck
 
 ### Mythic 1
 Mastermind (+2 Int)
@@ -224,9 +225,9 @@ Mastermind (+2 Int)
 |150|~~Scroll of Levitate~~ (Learned)
 |150|Scroll of Levitate
 |25|~~Scroll of Hex Vulnerability~~ (Learned)
-|25|Scroll of Delay Disease
-|25|Scroll of Delay Disease
-|25|Scroll of Delay Disease
+|25|~~Scroll of Delay Disease~~
+|25|~~Scroll of Delay Disease~~
+|25|~~Scroll of Delay Disease~~
 |25|Scroll of Ray of Sickening
 |25|Scroll of Ray of Enfeeblement
 |25|Scroll of Mage Armor
