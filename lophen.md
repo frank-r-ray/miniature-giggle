@@ -174,7 +174,7 @@ Starting Money: 120gp
 |1|Evil Eye
 |2|Cackle
 |4|Misfortune
-|6|Protective Luck
+|6|Flight
 
 ### Mythic 1
 Mastermind (+2 Int)
