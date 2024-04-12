@@ -23,7 +23,7 @@ No +X Armor/Weapon/Cloak/Stats
 
 Level: 5
 
-HP: 45
+HP: 56
 
 ### Race: Elf
 - +2 Int
@@ -114,18 +114,19 @@ Starting Money: 120gp
 
 |1|2|3
 |-|-|-
-(1) `Mage Armor`|(3) `Glitterdust`|(5) `Fly`
-(1) Sleep|(3) Hold Person|(5) `Barrow Haze`
-(1) Command|(4) `Web` | (6) Lightning Bolt
-(1) `Web Bolt`| (4) Lipstitch | (P) `Haste`
-(1) Ear Piercing Scream|(P) Silence |
-(1) Delay Disease|(B) Blindness/Deafness
-(1) Unseen Servant|(B) `Levitate`
-(2) Ray of Sickening| (6) `Raven's Flight x2`
-(2) `Ray of Enfeeblement`|
-(P) Ventriloquism
-(B) `Hex Vulnerability`|
-(B) `Blend`|
+(1) `Mage Armor`		|(3) `Glitterdust`	|(5) `Fly`
+(1) Sleep			|(3) Hold Person	|(5) Barrow Haze
+(1) Command			|(4) `Web` 		|(6) `Lightning Bolt x2`
+(1) Web Bolt			|(4) Lipstitch 		|(P) Haste
+(1) Ear Piercing Scream		|(P) `Silence x3` 	|
+(1) Delay Disease		|(B) Blindness/Deafness	|
+(1) Unseen Servant		|(B) Levitate		|
+(2) `Ray of Sickening`		|(6) Raven's Flight	|
+(2) `Ray of Enfeeblement`	|(B) Winters Grasp	|
+(P) Ventriloquism		|(B) Boneshaker		|
+(B) `Hex Vulnerability`		|			|
+(B) `Blend`			|			|
+(B) Chill Touch			|			|
 
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
@@ -248,3 +249,20 @@ Mastermind (+2 Int)
 |Starting|5,355
 |Spent|5313
 |Remaining|42
+
+### Destroyed the Wardstone
+- Received 5,000 in loot
+
+|Cost|Item
+|-|-
+|25|~~Scroll of Chill Touch~~ (Learned)
+|150|~~Scroll of Winter's Grasp~~ (Learned)
+|150|~~Scroll of Boneshaker~~ (Learned)
+|750|Wand of Infernal Healing
+|3000|Rod of Silent Spell
+
+|Totals|Amount
+|-|-
+|Starting|5042
+|Spent|0
+|Remaining|5042
