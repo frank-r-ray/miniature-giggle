@@ -116,9 +116,9 @@ Starting Money: 120gp
 |-|-|-
 (1) `Mage Armor`		|(3) `Glitterdust`	|(5) `Fly`
 (1) Sleep			|(3) Hold Person	|(5) Barrow Haze
-(1) Command			|(4) `Web` 		|(6) `Lightning Bolt x2`
+(1) Command			|(4) `Web` 		|(6) Lightning Bolt
 (1) Web Bolt			|(4) Lipstitch 		|(P) Haste
-(1) Ear Piercing Scream		|(P) `Silence x3` 	|
+(1) Ear Piercing Scream		|(P) `Silence x3` 	|(B) `Deep Slumber x2`
 (1) Delay Disease		|(B) Blindness/Deafness	|
 (1) Unseen Servant		|(B) Levitate		|
 (2) `Ray of Sickening`		|(6) Raven's Flight	|
@@ -258,6 +258,7 @@ Mastermind (+2 Int)
 |25|~~Scroll of Chill Touch~~ (Learned)
 |150|~~Scroll of Winter's Grasp~~ (Learned)
 |150|~~Scroll of Boneshaker~~ (Learned)
+|375|~~Scroll of Deep Slumber~~ (Learned)
 |750|Wand of Infernal Healing
 |3000|Rod of Silent Spell
 
