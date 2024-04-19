@@ -21,9 +21,9 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 5
+Level: 7
 
-HP: 56
+HP: 63
 
 ### Race: Elf
 - +2 Int
@@ -112,26 +112,26 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|1|2|3
-|-|-|-
-(1) `Mage Armor`		|(3) `Glitterdust`	|(5) `Fly`
-(1) Sleep			|(3) Hold Person	|(5) Barrow Haze
-(1) Command			|(4) `Web` 		|(6) Lightning Bolt
-(1) Web Bolt			|(4) Lipstitch 		|(P) Haste
-(1) Ear Piercing Scream		|(P) `Silence x3` 	|(B) `Deep Slumber x2`
-(1) Delay Disease		|(B) Blindness/Deafness	|
-(1) Unseen Servant		|(B) Levitate		|
-(2) `Ray of Sickening`		|(6) Raven's Flight	|
-(2) `Ray of Enfeeblement`	|(B) Winters Grasp	|
-(P) Ventriloquism		|(B) Boneshaker		|
-(B) `Hex Vulnerability`		|			|
-(B) `Blend`			|			|
-(B) Chill Touch			|			|
+|1|2|3|4
+|-|-|-|-
+(1) `Mage Armor`		    |(3) `Glitterdust`	    |(5) `Fly`              |(7) `Threefold Aspect`
+(1) Sleep			        |(3) Hold Person        |(5) `Barrow Haze`      |(7) `Black Tentacles`
+(1) Command			        |(4) `Web`              |(6) `Lightning Bolt`
+(1) Web Bolt			    |(4) Lipstitch          |(P) Haste
+(1) Ear Piercing Scream		|(P) Silence            |(B) Deep Slumber
+(1) Delay Disease		    |(B) Blindness/Deafness
+(1) Unseen Servant		    |(B) Levitate
+(2) `Ray of Sickening`		|(6) Raven's Flight
+(2) `Ray of Enfeeblement`	|(B) Winters Grasp
+(P) Ventriloquism		    |(B) `Boneshaker x3`
+(B) `Hex Vulnerability`
+(B) `Blend`
+(B) Chill Touch
 
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|6|4|5|5|3|-|-|-|-|-|-|
+|6|4|5|5|3|2|-|-|-|-|-|
 
 ### Familiar
 - Greensting Scorpion (+4 Initiative)
@@ -139,21 +139,21 @@ Starting Money: 120gp
 ### Skills
 2 + Int (8)
 | Ranks | Skill | Bonus
-| ----------- | ----------- | -----------
+|-|-|-
 | | Craft  (Int)|+6
-|6| Diplomacy (Int)|+16
-|6| Disable Device (Dex)|+16
-| | Fly (Dex)|+4
+|7| Diplomacy (Int)|+17
+|7| Disable Device (Dex)|+17
+|1| Fly (Dex)|+8
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|6| Knowledge (arcana) (Int)|+15
-|6| Knowledge (history) (Int)|+15
-| | Knowledge (nature) (Int)|+6
-|6| Knowledge (planes) (Int)|+15
-|6| Perception (Wis)|+20
+|7| Knowledge (arcana) (Int)|+16
+|5| Knowledge (history) (Int)|+14
+|1| Knowledge (nature) (Int)|+10
+|7| Knowledge (planes) (Int)|+16
+|7| Perception (Wis)|+22 (Alertness)
 | | Profession (Wis)|+2
-|6| Spellcraft (Int)|+15
-|6| Stealth (Dex)|+17
+|7| Spellcraft (Int)|+16
+|7| Stealth (Dex)|+18
 | | Use Magic Device (Cha)|-2
 
 ### Saves
@@ -167,6 +167,7 @@ Starting Money: 120gp
 |1|Extra Hex: Evil Eye
 |3|Accursed Hex
 |5|Ability Focus (Slumber Hex)
+|7|Improved Familiar (Ratling)
 
 ### Hexes
 | Level | Hex |
@@ -261,9 +262,17 @@ Mastermind (+2 Int)
 |375|~~Scroll of Deep Slumber~~ (Learned)
 |750|Wand of Infernal Healing
 |3000|Rod of Silent Spell
+|150|Scroll of Mirror Image
+|150|Scroll of Mirror Image
+|150|Scroll of Mirror Image
+|25|Scroll of Ill Omen
+|25|Scroll of Ill Omen
+|25|Scroll of Ill Omen
+|25|Scroll of Cure Light Wounds
+|25|Scroll of Cure Light Wounds
 
 |Totals|Amount
 |-|-
 |Starting|5042
-|Spent|0
-|Remaining|5042
+|Spent|5025
+|Remaining|17
