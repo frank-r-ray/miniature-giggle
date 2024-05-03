@@ -52,6 +52,11 @@ Starting at 2nd level, a fighter gains a +1 bonus on Will saves against fear. Th
 |4|Deadly Aim
 |5|Weapon Specialization (Composite Longbow)
 
+### Saves
+|F|R|W
+|-|-|-
+|+6|+3|+3
+
 ### Skills
 |Skill|Bonus
 |-|-
@@ -63,6 +68,7 @@ Starting at 2nd level, a fighter gains a +1 bonus on Will saves against fear. Th
 |-|-
 |8800|Merciful Distance Compisite Longbow
 |550|Masterwork Agile Breastplate
-|300|Hundreds of Cold Iron Arrows
+|200|Hundreds of Cold Iron arrows
+|100|Hundreds of normal arrows
 |20|Heavy Steel Shield
 |315|Masterwork Longsword
