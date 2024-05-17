@@ -114,20 +114,20 @@ Starting Money: 120gp
 
 |1|2|3|4
 |-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) ~~`Glitterdust`~~	    |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~
 (1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) `Black Tentacles`
-(1) Command			        |(4) `Web`                  |(6) ~~`Lightning Bolt`~~       |(8) Death Ward
+(1) Command			        |(4) `Web`                  |(6) `Lightning Bolt`           |(8) Death Ward
 (1) Web Bolt			    |(4) Lipstitch              |(P) `Haste`                    |(8) Confusion
 (1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`
-(1) ~~`Delay Disease`~~		|(B) `Blindness/Deafness`   |(MA) `Resist Energy Communal`
+(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`
 (1) Unseen Servant		    |(B) Levitate
 (2) Ray of Sickening		|(6) Raven's Flight
 (2) Ray of Enfeeblement	    |(B) Winters Grasp
 (P) Ventriloquism		    |(B) Boneshaker
-(B) `Hex Vulnerability`     |(W) ~~`Cure Light Wounds`~~
-(B) `Blend`                 |(B) `Delay Poison`
-(B) Chill Touch             |(MA) Heroism
-(MA) Shield
+(B) Hex Vulnerability       |(W) `Cure Moderate Wounds`
+(B) Blend                   |(B) ~~`Delay Poison`~~
+(B) Chill Touch             |(MA) `Heroism`
+(MA) `Shield x2`
 
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
