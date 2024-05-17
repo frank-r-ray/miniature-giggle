@@ -21,9 +21,9 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 7
+Level: 8
 
-HP: 63
+HP: 72
 
 ### Race: Elf
 - +2 Int
@@ -56,7 +56,7 @@ HP: 63
 Point Buy: 30
 | Stat | Score | Racial | Level | Mythic | Misc | Total | Bonus
 |-|-|-|-|-|-|-|-
-|Int|17|+2|+1|+2||22|+6
+|Int|17|+2|+2|+4||25|+7
 |Dex|16|+2||||18|+4
 |Con|16|-2||||14|+2
 |Wis|14|||||14|+2
@@ -114,52 +114,54 @@ Starting Money: 120gp
 
 |1|2|3|4
 |-|-|-|-
-(1) `Mage Armor`		    |(3) `Glitterdust`	    |(5) `Fly`              |(7) `Threefold Aspect`
-(1) Sleep			        |(3) Hold Person        |(5) `Barrow Haze`      |(7) `Black Tentacles`
-(1) Command			        |(4) `Web`              |(6) `Lightning Bolt`
-(1) Web Bolt			    |(4) Lipstitch          |(P) Haste
-(1) Ear Piercing Scream		|(P) Silence            |(B) Deep Slumber
-(1) Delay Disease		    |(B) Blindness/Deafness
+(1) ~~`Mage Armor x2`~~		|(3) ~~`Glitterdust`~~	    |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) `Black Tentacles`
+(1) Command			        |(4) `Web`                  |(6) ~~`Lightning Bolt`~~       |(8) Death Ward
+(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste`                    |(8) Confusion
+(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`
+(1) ~~`Delay Disease`~~		|(B) `Blindness/Deafness`   |(MA) `Resist Energy Communal`
 (1) Unseen Servant		    |(B) Levitate
-(2) `Ray of Sickening`		|(6) Raven's Flight
-(2) `Ray of Enfeeblement`	|(B) Winters Grasp
-(P) Ventriloquism		    |(B) `Boneshaker x3`
-(B) `Hex Vulnerability`
-(B) `Blend`
-(B) Chill Touch
+(2) Ray of Sickening		|(6) Raven's Flight
+(2) Ray of Enfeeblement	    |(B) Winters Grasp
+(P) Ventriloquism		    |(B) Boneshaker
+(B) `Hex Vulnerability`     |(W) ~~`Cure Light Wounds`~~
+(B) `Blend`                 |(B) `Delay Poison`
+(B) Chill Touch             |(MA) Heroism
+(MA) Shield
 
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|6|4|5|5|3|2|-|-|-|-|-|
+|6|4|5|5|5|3|-|-|-|-|-|
 
 ### Familiar
 - Greensting Scorpion (+4 Initiative)
 
 ### Skills
-2 + Int (8)
+2 + Int (9)
 | Ranks | Skill | Bonus
 |-|-|-
+|8| Acrobatics|+12
 | | Craft  (Int)|+6
-|7| Diplomacy (Int)|+17
-|7| Disable Device (Dex)|+17
+|8| Diplomacy (Int)|+18
+|8| Disable Device (Dex)|+18
 |1| Fly (Dex)|+8
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|7| Knowledge (arcana) (Int)|+16
-|5| Knowledge (history) (Int)|+14
+|8| Knowledge (arcana) (Int)|+17
+|6| Knowledge (history) (Int)|+15
 |1| Knowledge (nature) (Int)|+10
-|7| Knowledge (planes) (Int)|+16
-|7| Perception (Wis)|+22 (Alertness)
+|8| Knowledge (planes) (Int)|+17
+|8| Perception (Wis)|+23 (Alertness)
 | | Profession (Wis)|+2
-|7| Spellcraft (Int)|+16
-|7| Stealth (Dex)|+18
+|8| Spellcraft (Int)|+17
+|8| Stealth (Dex)|+19
 | | Use Magic Device (Cha)|-2
 
 ### Saves
 |Level|Fort|Ref|Will
 |-|-|-|-
-|6|+5|+7|+8
+|6|+5|+7|+9
 
 ### Feats
 | Level | Feat |
@@ -177,9 +179,13 @@ Starting Money: 120gp
 |2|Cackle
 |4|Misfortune
 |6|Flight
+|8|Fortune
 
-### Mythic 1
-Mastermind (+2 Int)
+### Mythic
+|Level|Type
+|-|-
+|1|Mastermind (+2 Int)
+|2|Mastermind (+2 Int)
 
 ### Mythic Feats
 |Level|Feat
@@ -187,6 +193,9 @@ Mastermind (+2 Int)
 |5|Mythic Skill Focus (Stealth, Perception)
 |5|Mythic Resistance (+1 Saves)
 |5|Feat: Additional Traits: Honeyed Words, Slippery
+|8|Feat: Extra Hex (Soothsayer)
+|8|Feat: Extra Hex (Protective Luck)
+|8|Mythic Arcana
 
 ## Notes
 ### Arrived at the Defender's Heart
@@ -222,7 +231,7 @@ Mastermind (+2 Int)
 |150|~~Scroll of Blindness/Deafness~~ (Learned)
 |150|Scroll of Blindness/Deafness
 |150|Scroll of Lipstitch
-|150|Scroll of Delay Poison
+|150|~~Scroll of Delay Poison~~ (Learned)
 |150|Scroll of Glitterdust
 |150|~~Scroll of Levitate~~ (Learned)
 |150|Scroll of Levitate
