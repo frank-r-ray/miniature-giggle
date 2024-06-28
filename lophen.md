@@ -297,9 +297,10 @@ Starting Money: 120gp
 |14000|Rod of Widen Metamagic
 |7200|Fates Shears
 |150|~~Scroll of False Life~~ (Learned)
+|450|Retraining
 
 |Totals|Amount
 |-|-
 |Starting|33,017
-|Spent|31200
-|Remaining|1667
+|Spent|31650
+|Remaining|1217
