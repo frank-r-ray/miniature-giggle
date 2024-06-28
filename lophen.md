@@ -114,10 +114,10 @@ Starting Money: 120gp
 
 |1|2|3|4|5
 |-|-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~ | (9) `Baleful Polymorph`
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x3`              |(7) `Black Tentacles`		| (9) `Summon Monster V`
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           |(8) Death Ward
-(1) Web Bolt			    |(4) Lipstitch              |(P) Haste                    |(8) Confusion
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~ | (9) Feeblemind
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x3`           |(7) `Black Tentacles`		| (9) `Suffocation`
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) Death Wardstone		| (MA) `Icy Prison`
+(1) Web Bolt			    |(4) Lipstitch              |(P) Haste                    	|(8) Confusion
 (1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`
 (1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`
 (1) Unseen Servant		    |(B) Levitate
