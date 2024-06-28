@@ -114,7 +114,7 @@ Starting Money: 120gp
 
 |1|2|3|4|5
 |-|-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~ | (9) Feeblemind
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~ | (9) Reincarnate
 (1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x3`           |(7) `Black Tentacles`		| (9) `Suffocation`
 (1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) Death Wardstone		| (MA) `Icy Prison`
 (1) Web Bolt			    |(4) Lipstitch              |(P) Haste                    	|(8) Confusion
@@ -298,6 +298,7 @@ Starting Money: 120gp
 |7200|Fates Shears
 |150|~~Scroll of False Life~~ (Learned)
 |450|Retraining
+|1000|Oils
 
 |Totals|Amount
 |-|-
