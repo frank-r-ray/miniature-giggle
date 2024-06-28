@@ -227,7 +227,7 @@ Starting Money: 120gp
 |-|-
 |2500|Eyes of the Eagle
 |375|Scroll of Fly
-|375|Scroll of Barrow Haze
+|375|~~Scroll of Barrow Haze~~
 |375|Scroll of Sleet Storm
 |188|Wand of "Cure Light Wounds"
 |150|~~Scroll of Blindness/Deafness~~ (Learned)
@@ -236,7 +236,7 @@ Starting Money: 120gp
 |150|~~Scroll of Delay Poison~~ (Learned)
 |150|Scroll of Glitterdust
 |150|~~Scroll of Levitate~~ (Learned)
-|150|Scroll of Levitate
+|150|~~Scroll of Levitate~~
 |25|~~Scroll of Hex Vulnerability~~ (Learned)
 |25|~~Scroll of Delay Disease~~
 |25|~~Scroll of Delay Disease~~
