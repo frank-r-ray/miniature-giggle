@@ -303,5 +303,5 @@ Starting Money: 120gp
 |Totals|Amount
 |-|-
 |Starting|33,017
-|Spent|31650
-|Remaining|1217
+|Spent|32650
+|Remaining|217
