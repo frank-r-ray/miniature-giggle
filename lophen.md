@@ -21,9 +21,9 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 8
+Level: 9
 
-HP: 72
+HP: 81
 
 ### Race: Elf
 - +2 Int
@@ -112,12 +112,12 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|1|2|3|4
-|-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) `Black Tentacles`
-(1) Command			        |(4) `Web`                  |(6) `Lightning Bolt`           |(8) Death Ward
-(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste`                    |(8) Confusion
+|1|2|3|4|5
+|-|-|-|-|-
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~ | (9) `Baleful Polymorph`
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x3`              |(7) `Black Tentacles`		| (9) `Summon Monster V`
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           |(8) Death Ward
+(1) Web Bolt			    |(4) Lipstitch              |(P) Haste                    |(8) Confusion
 (1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`
 (1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`
 (1) Unseen Servant		    |(B) Levitate
@@ -127,12 +127,12 @@ Starting Money: 120gp
 (B) Hex Vulnerability       |(W) `Cure Moderate Wounds`
 (B) Blend                   |(B) ~~`Delay Poison`~~
 (B) Chill Touch             |(MA) `Heroism`
-(MA) `Shield x2`
+(MA) `Shield x2`			|(B) `False Life`
 
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|6|4|5|5|5|3|-|-|-|-|-|
+|9|4|5|6|5|3|2|-|-|-|-|
 
 ### Familiar
 - Greensting Scorpion (+4 Initiative)
@@ -141,27 +141,27 @@ Starting Money: 120gp
 2 + Int (9)
 | Ranks | Skill | Bonus
 |-|-|-
-|8| Acrobatics|+12
+|9| Acrobatics|+13
 | | Craft  (Int)|+6
-|8| Diplomacy (Int)|+18
-|8| Disable Device (Dex)|+18
+|9| Diplomacy (Int)|+19
+|9| Disable Device (Dex)|+19
 |1| Fly (Dex)|+8
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|8| Knowledge (arcana) (Int)|+17
-|6| Knowledge (history) (Int)|+15
+|9| Knowledge (arcana) (Int)|+18
+|7| Knowledge (history) (Int)|+16
 |1| Knowledge (nature) (Int)|+10
-|8| Knowledge (planes) (Int)|+17
-|8| Perception (Wis)|+23 (Alertness)
+|9| Knowledge (planes) (Int)|+18
+|9| Perception (Wis)|+24 (Alertness)
 | | Profession (Wis)|+2
-|8| Spellcraft (Int)|+17
-|8| Stealth (Dex)|+19
+|9| Spellcraft (Int)|+18
+|9| Stealth (Dex)|+20
 | | Use Magic Device (Cha)|-2
 
 ### Saves
 |Level|Fort|Ref|Will
 |-|-|-|-
-|6|+5|+7|+9
+|9|+5|+8|+9
 
 ### Feats
 | Level | Feat |
@@ -170,6 +170,7 @@ Starting Money: 120gp
 |3|Accursed Hex
 |5|Ability Focus (Slumber Hex)
 |7|Improved Familiar (Ratling)
+|9|Extra Hex (greater gift of consumption)
 
 ### Hexes
 | Level | Hex |
@@ -177,9 +178,10 @@ Starting Money: 120gp
 |1|Slumber
 |1|Evil Eye
 |2|Cackle
-|4|Misfortune
+|4|Gift of consumption
 |6|Flight
 |8|Fortune
+|9|Gift of consumption greater
 
 ### Mythic
 |Level|Type
@@ -285,3 +287,19 @@ Starting Money: 120gp
 |Starting|5042
 |Spent|5025
 |Remaining|17
+
+### Saved Drezen
+- Received 33,000
+
+|Cost|Item
+|-|-
+|10000|Hexing Runes
+|14000|Rod of Widen Metamagic
+|7200|Fates Shears
+|150|~~Scroll of False Life~~ (Learned)
+
+|Totals|Amount
+|-|-
+|Starting|33,017
+|Spent|31200
+|Remaining|1667
