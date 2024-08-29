@@ -21,9 +21,9 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 9
+Level: 10
 
-HP: 81
+HP: 90
 
 ### Race: Elf
 - +2 Int
@@ -114,12 +114,12 @@ Starting Money: 120gp
 
 |1|2|3|4|5
 |-|-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~ | (9) Reincarnate
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x3`           |(7) `Black Tentacles`		| (9) `Suffocation`
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) Death Wardstone		| (MA) `Icy Prison`
-(1) Web Bolt			    |(4) Lipstitch              |(P) Haste                    	|(8) Confusion
-(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`
-(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		| (9) Reincarnate
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x3`           |(7) `Black Tentacles`			| (9) `Suffocation`
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) Death Ward					| (MA) `Icy Prison`
+(1) Web Bolt			    |(4) Lipstitch              |(P) Haste                    	|(8) `Confusion`				| (10) Baleful Polymorph
+(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`	| (10) Break Enchantment
+(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`	|								| (P) `Teleport`
 (1) Unseen Servant		    |(B) Levitate
 (2) Ray of Sickening		|(6) Raven's Flight
 (2) Ray of Enfeeblement	    |(B) Winters Grasp
@@ -132,7 +132,7 @@ Starting Money: 120gp
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|9|4|5|6|5|3|2|-|-|-|-|
+|10|4|5|6|5|4|3|-|-|-|-|
 
 ### Familiar
 - Greensting Scorpion (+4 Initiative)
@@ -141,27 +141,28 @@ Starting Money: 120gp
 2 + Int (9)
 | Ranks | Skill | Bonus
 |-|-|-
-|9| Acrobatics|+13
+|10| Acrobatics|+14
 | | Craft  (Int)|+6
-|9| Diplomacy (Int)|+19
-|9| Disable Device (Dex)|+19
+|10| Diplomacy (Int)|+20
+|10| Disable Device (Dex)|+20
 |1| Fly (Dex)|+8
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|9| Knowledge (arcana) (Int)|+18
-|7| Knowledge (history) (Int)|+16
+|10| Knowledge (arcana) (Int)|+19
+|8| Knowledge (history) (Int)|+17
 |1| Knowledge (nature) (Int)|+10
-|9| Knowledge (planes) (Int)|+18
-|9| Perception (Wis)|+24 (Alertness)
+|10| Knowledge (planes) (Int)|+19
+|10| Perception (Wis)|+30 (Alertness)
 | | Profession (Wis)|+2
-|9| Spellcraft (Int)|+18
-|9| Stealth (Dex)|+20
+|10| Spellcraft (Int)|+19
+|10| Stealth (Dex)|+24
 | | Use Magic Device (Cha)|-2
 
 ### Saves
-|Level|Fort|Ref|Will
+|Type|Fort|Ref|Will
 |-|-|-|-
-|9|+5|+8|+9
+|Base|+4|+8|+10
+|Total|+6|+7|+12
 
 ### Feats
 | Level | Feat |
@@ -182,6 +183,7 @@ Starting Money: 120gp
 |6|Flight
 |8|Fortune
 |9|Gift of consumption greater
+|10|Restless Slumber
 
 ### Mythic
 |Level|Type
@@ -305,3 +307,19 @@ Starting Money: 120gp
 |Starting|33,017
 |Spent|32650
 |Remaining|217
+
+### I don't remember?
+- Received 6,400
+
+|Cost|Item
+|-|-
+|3500| Rod of Reach
+|750| Wand of Infernal Healing
+|1000| Pearl of Power (1)
+|1000| Pearl of Power (1)
+
+|Totals|Amount
+|-|-
+|Starting|6617
+|Spent|6200
+|Remaining|471
