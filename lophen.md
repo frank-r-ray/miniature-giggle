@@ -21,9 +21,9 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 10
+Level: 11
 
-HP: 90
+HP: 99
 
 ### Race: Elf
 - +2 Int
@@ -56,7 +56,7 @@ HP: 90
 Point Buy: 30
 | Stat | Score | Racial | Level | Mythic | Misc | Total | Bonus
 |-|-|-|-|-|-|-|-
-|Int|17|+2|+2|+4||25|+7
+|Int|17|+2|+2|+6||27|+8
 |Dex|16|+2||||18|+4
 |Con|16|-2||||14|+2
 |Wis|14|||||14|+2
@@ -114,10 +114,10 @@ Starting Money: 120gp
 
 |1|2|3|4|5
 |-|-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		| (9) Reincarnate
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x3`           |(7) `Black Tentacles`			| (9) `Suffocation`
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) Death Ward					| (MA) `Icy Prison`
-(1) Web Bolt			    |(4) Lipstitch              |(P) Haste                    	|(8) `Confusion`				| (10) Baleful Polymorph
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		| (9) Reincarnate           | (P) Disintegrate
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x1`           |(7) `Black Tentacles`			| (9) `Suffocation`         | (11) `Greater Dispel Magic`
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				| (MA) `Icy Prison`         | (11) `True Seeing`
+(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				| (10) Baleful Polymorph
 (1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`	| (10) Break Enchantment
 (1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`	|								| (P) `Teleport`
 (1) Unseen Servant		    |(B) Levitate
@@ -132,37 +132,38 @@ Starting Money: 120gp
 ### Spells Per Day 4
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|10|4|5|6|5|4|3|-|-|-|-|
+|11|4|5|6|6|5|3|2|-|-|-|
 
 ### Familiar
-- Greensting Scorpion (+4 Initiative)
+- ~~Greensting Scorpion (+4 Initiative)~~
+- Casio, the Ratling (Casts dimension door and scrolls)
 
 ### Skills
-2 + Int (9)
+2 + Int (10)
 | Ranks | Skill | Bonus
 |-|-|-
-|10| Acrobatics|+14
+|11| Acrobatics|+15
 | | Craft  (Int)|+6
-|10| Diplomacy (Int)|+20
-|10| Disable Device (Dex)|+20
+|11| Diplomacy (Int)|+21
+|11| Disable Device (Dex)|+21
 |1| Fly (Dex)|+8
 | | Heal (Wis)|+2
 | | Intimidate (Cha)|-2
-|10| Knowledge (arcana) (Int)|+19
-|8| Knowledge (history) (Int)|+17
-|1| Knowledge (nature) (Int)|+10
-|10| Knowledge (planes) (Int)|+19
-|10| Perception (Wis)|+30 (Alertness)
+|11| Knowledge (arcana) (Int)|+20
+|11| Knowledge (history) (Int)|+20
+|10| Knowledge (nature) (Int)|+19
+|11| Knowledge (planes) (Int)|+20
+|11| Perception (Wis)|+31 (Alertness)
 | | Profession (Wis)|+2
-|10| Spellcraft (Int)|+19
-|10| Stealth (Dex)|+24
+|11| Spellcraft (Int)|+20
+|11| Stealth (Dex)|+25
 | | Use Magic Device (Cha)|-2
 
 ### Saves
 |Type|Fort|Ref|Will
 |-|-|-|-
-|Base|+4|+8|+10
-|Total|+6|+7|+12
+|Base|+6|+10|+12
+|Total|+8|+9|+14
 
 ### Feats
 | Level | Feat |
@@ -172,6 +173,7 @@ Starting Money: 120gp
 |5|Ability Focus (Slumber Hex)
 |7|Improved Familiar (Ratling)
 |9|Extra Hex (greater gift of consumption)
+|11|Split Hex
 
 ### Hexes
 | Level | Hex |
@@ -190,16 +192,20 @@ Starting Money: 120gp
 |-|-
 |1|Mastermind (+2 Int)
 |2|Mastermind (+2 Int)
+|3|Mastermind (+2 Int)
 
 ### Mythic Feats
 |Level|Feat
 |-|-
 |5|Mythic Skill Focus (Stealth, Perception)
 |5|Mythic Resistance (+1 Saves)
-|5|Feat: Additional Traits: Honeyed Words, Slippery
+|5|Feat: Additional Traits: Honeyed Words, Slippery <- Should have been Mythic Ability focus
 |8|Feat: Extra Hex (Soothsayer)
 |8|Feat: Extra Hex (Protective Luck)
 |8|Mythic Arcana
+|11|Mythic Ability Focus <- Should have been Feat: Additional Traits: Honeyed Words, Slippery
+|11|Mythic Resistance
+|11|Mythic Resistance
 
 ## Notes
 ### Arrived at the Defender's Heart
@@ -297,7 +303,7 @@ Starting Money: 120gp
 |-|-
 |10000|Hexing Runes
 |14000|Rod of Widen Metamagic
-|7200|Fates Shears
+|7200|Fates Shears x2
 |150|~~Scroll of False Life~~ (Learned)
 |450|Retraining
 |1000|Oils
@@ -322,4 +328,16 @@ Starting Money: 120gp
 |-|-
 |Starting|6617
 |Spent|6200
+|Remaining|471
+
+### Ivory Labyrinth
+- Received 38,500
+
+|Cost|Item
+|-|-
+|6000|Cackling Hag's Blouse
+|32500|Rod of Voracious Hexes
+
+|Totals|Amount
+|-|-
 |Remaining|471
