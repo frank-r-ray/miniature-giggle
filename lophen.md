@@ -23,7 +23,7 @@ No +X Armor/Weapon/Cloak/Stats
 
 Level: 11
 
-HP: 99
+HP: 145
 
 ### Race: Elf
 - +2 Int
@@ -58,7 +58,7 @@ Point Buy: 30
 |-|-|-|-|-|-|-|-
 |Int|17|+2|+2|+6||27|+8
 |Dex|16|+2||||18|+4
-|Con|16|-2||||14|+2
+|Con|16|-2||+2||16|+3
 |Wis|14|||||14|+2
 |Str|7|||||7|-2
 |Cha|7|||||7|-2
@@ -112,13 +112,13 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|1|2|3|4|5
-|-|-|-|-|-
+|1|2|3|4|5|6
+|-|-|-|-|-|-
 (1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		| (9) Reincarnate           | (P) Disintegrate
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x1`           |(7) `Black Tentacles`			| (9) `Suffocation`         | (11) `Greater Dispel Magic`
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x1`           |(7) `Black Tentacles`			| (9) Suffocation           | (11) `Greater Dispel Magic`
 (1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				| (MA) `Icy Prison`         | (11) `True Seeing`
 (1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				| (10) Baleful Polymorph
-(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`	| (10) Break Enchantment
+(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`	| (10) `Break Enchantment`
 (1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`	|								| (P) `Teleport`
 (1) Unseen Servant		    |(B) Levitate
 (2) Ray of Sickening		|(6) Raven's Flight
@@ -129,7 +129,7 @@ Starting Money: 120gp
 (B) Chill Touch             |(MA) `Heroism`
 (MA) `Shield x2`			|(B) `False Life`
 
-### Spells Per Day 4
+### Spells Per Day 11
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
 |11|4|5|6|6|5|3|2|-|-|-|
@@ -142,28 +142,27 @@ Starting Money: 120gp
 2 + Int (10)
 | Ranks | Skill | Bonus
 |-|-|-
-|11| Acrobatics|+15
-| | Craft  (Int)|+6
-|11| Diplomacy (Int)|+21
-|11| Disable Device (Dex)|+21
-|1| Fly (Dex)|+8
-| | Heal (Wis)|+2
-| | Intimidate (Cha)|-2
-|11| Knowledge (arcana) (Int)|+20
-|11| Knowledge (history) (Int)|+20
-|10| Knowledge (nature) (Int)|+19
-|11| Knowledge (planes) (Int)|+20
-|11| Perception (Wis)|+31 (Alertness)
-| | Profession (Wis)|+2
-|11| Spellcraft (Int)|+20
-|11| Stealth (Dex)|+25
-| | Use Magic Device (Cha)|-2
+|11| Acrobatics                 |+15
+| | Craft  (Int)               |+0
+|11| Diplomacy (Int)            |+24
+|11| Disable Device (Dex)       |+19 (mwk thieves tools)
+|1| Fly (Dex)                   |+7
+| | Heal (Wis)                  |+2
+| | Intimidate (Cha)            |-2
+|11| Knowledge (arcana) (Int)   |+24
+|11| Knowledge (history) (Int)  |+24
+|10| Knowledge (nature) (Int)   |+23
+|11| Knowledge (planes) (Int)   |+24
+|11| Perception (Wis)           |+33 (Alertness)
+| | Profession (Wis)            |+2
+|11| Spellcraft (Int)           |+24
+|11| Stealth (Dex)              |+23
+| | Use Magic Device (Cha)      |-2
 
 ### Saves
 |Type|Fort|Ref|Will
 |-|-|-|-
-|Base|+6|+10|+12
-|Total|+8|+9|+14
+|Total|+11|+9|+14
 
 ### Feats
 | Level | Feat |
@@ -193,6 +192,7 @@ Starting Money: 120gp
 |1|Mastermind (+2 Int)
 |2|Mastermind (+2 Int)
 |3|Mastermind (+2 Int)
+|4|Meaty (+2 Con)
 
 ### Mythic Feats
 |Level|Feat
@@ -206,6 +206,9 @@ Starting Money: 120gp
 |11|Mythic Ability Focus <- Should have been Feat: Additional Traits: Honeyed Words, Slippery
 |11|Mythic Resistance
 |11|Mythic Resistance
+|Bonus|Mythic Toughness
+|Bonus|Mythic Fortitude
+|Bonus|Extra Feat: Toughness
 
 ## Notes
 ### Arrived at the Defender's Heart
