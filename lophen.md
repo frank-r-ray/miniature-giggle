@@ -21,9 +21,9 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 11
+Level: 12
 
-HP: 145
+HP: 156
 
 ### Race: Elf
 - +2 Int
@@ -56,7 +56,7 @@ HP: 145
 Point Buy: 30
 | Stat | Score | Racial | Level | Mythic | Misc | Total | Bonus
 |-|-|-|-|-|-|-|-
-|Int|17|+2|+2|+6||27|+8
+|Int|17|+2|+2|+6||28|+9
 |Dex|16|+2||||18|+4
 |Con|16|-2||+2||16|+3
 |Wis|14|||||14|+2
@@ -114,12 +114,12 @@ Starting Money: 120gp
 
 |1|2|3|4|5|6
 |-|-|-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		| (9) Reincarnate           | (P) Disintegrate
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze x1`           |(7) `Black Tentacles`			| (9) Suffocation           | (11) `Greater Dispel Magic`
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				| (MA) `Icy Prison`         | (11) `True Seeing`
-(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				| (10) Baleful Polymorph
-(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Angelic Aspect Greater`	| (10) `Break Enchantment`
-(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`	|								| (P) `Teleport`
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) `Black Tentacles`			    | (9) Suffocation               | (11) `Greater Dispel Magic`
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison`             | (11) `True Seeing`
+(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) Baleful Polymorph        | (12) `Summon Monster VI`
+(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Emergency Force Sphere`	    | (10) `Break Enchantment x2`   | (12) Suggestion Mass
+(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`	|								    | (P) `Teleport`
 (1) Unseen Servant		    |(B) Levitate
 (2) Ray of Sickening		|(6) Raven's Flight
 (2) Ray of Enfeeblement	    |(B) Winters Grasp
@@ -132,37 +132,38 @@ Starting Money: 120gp
 ### Spells Per Day 11
 |Level|0|1|2|3|4|5|6|7|8|9
 |-|-|-|-|-|-|-|-|-|-|-|
-|11|4|5|6|6|5|3|2|-|-|-|
+|11|4|5|6|6|5|4|3|-|-|-|
 
 ### Familiar
 - ~~Greensting Scorpion (+4 Initiative)~~
 - Casio, the Ratling (Casts dimension door and scrolls)
 
 ### Skills
-2 + Int (10)
+2 + Int (11)
 | Ranks | Skill | Bonus
 |-|-|-
-|11| Acrobatics                 |+15
+|12| Acrobatics                 |+16
 | | Craft  (Int)               |+0
-|11| Diplomacy (Int)            |+24
-|11| Disable Device (Dex)       |+19 (mwk thieves tools)
+|12| Diplomacy (Int)            |+26
+|12| Disable Device (Dex)       |+20 (mwk thieves tools)
 |1| Fly (Dex)                   |+7
 | | Heal (Wis)                  |+2
 | | Intimidate (Cha)            |-2
-|11| Knowledge (arcana) (Int)   |+24
-|11| Knowledge (history) (Int)  |+24
-|10| Knowledge (nature) (Int)   |+23
-|11| Knowledge (planes) (Int)   |+24
-|11| Perception (Wis)           |+33 (Alertness)
+|12| Knowledge (arcana) (Int)   |+26
+|12| Knowledge (history) (Int)  |+26
+|11| Knowledge (nature) (Int)   |+25
+|12| Knowledge (planes) (Int)   |+26
+|12| Knowledge Religion (Int)   |+23
+|12| Perception (Wis)           |+34 (Alertness)
 | | Profession (Wis)            |+2
-|11| Spellcraft (Int)           |+24
-|11| Stealth (Dex)              |+23
+|12| Spellcraft (Int)           |+26
+|12| Stealth (Dex)              |+24
 | | Use Magic Device (Cha)      |-2
 
 ### Saves
 |Type|Fort|Ref|Will
 |-|-|-|-
-|Total|+11|+9|+14
+|Total|+12|+10|+15
 
 ### Feats
 | Level | Feat |
@@ -185,6 +186,7 @@ Starting Money: 120gp
 |8|Fortune
 |9|Gift of consumption greater
 |10|Restless Slumber
+|12|Ice Tomb
 
 ### Mythic
 |Level|Type
