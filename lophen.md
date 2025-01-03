@@ -4,6 +4,7 @@
 ## Table of Contents
 - [Name](#name-lophen)
 - [Race](#race-elf)
+- [Languages](#languages)
 - [Alternate Racial Traits](#alternate-racial-traits)
 - [Traits](#traits)
 - [Stats](#stats)
@@ -21,9 +22,14 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 12
+Level: 13
 
-HP: 156
+- Mythic Fortitude: 3hp per mythic Level (12)
+- Mythic Toughness: 3hp per mythic Level (12)
+- 11 per level (6 (Base) + 3 (Con) + 1 (Favored Class) + 1 (Toughness))
+- Don't forget to roll false life
+
+HP: 167
 
 ### Race: Elf
 - +2 Int
@@ -35,6 +41,14 @@ HP: 156
 >Elven Magic: Elves receive a +2 racial bonus on caster level checks made to overcome spell resistance. In addition, elves receive a +2 racial bonus on Spellcraft skill checks made to identify the properties of magic items.
 
 >Low-Light Vision: Elves can see twice as far as humans in conditions of dim light.
+
+### Languages
+- Common
+- Elven
+- Celestial
+- Draconic
+- Sylvan
+- Gnome
 
 ### Alternate Racial Traits:
 - Dreamspeaker (-Elven Immunities)
@@ -54,14 +68,14 @@ HP: 156
 
 ### Stats
 Point Buy: 30
-| Stat | Score | Racial | Level | Mythic | Misc | Total | Bonus
-|-|-|-|-|-|-|-|-
-|Int|17|+2|+2|+6||28|+9
-|Dex|16|+2||||18|+4
-|Con|16|-2||+2||16|+3
-|Wis|14|||||14|+2
-|Str|7|||||7|-2
-|Cha|7|||||7|-2
+| Stat  | Score | Racial    | Level | Mythic    | Misc  | Total | Bonus
+|-      |-      |-          |-      |-          |-      |-      |-
+|Int    |17     |+2         |+2     |+6         |       |28     |+9
+|Dex    |16     |+2         |       |           |       |18     |+4
+|Con    |16     |-2         |       |+2         |       |16     |+3
+|Wis    |14     |           |       |           |       |14     |+2
+|Str    |7      |           |       |           |       |7      |-2
+|Cha    |7      |           |       |           |       |7      |-2
 
 ### Equipment
 Starting Money: 120gp
@@ -98,27 +112,27 @@ Starting Money: 120gp
 
 ### Patron: Time
 
-| Level | Spell |
-| ----------- | -----------
-|2|Ventriloquism|
-|4|Silence|
-|6|Haste|
-|8|Threefold Aspect|
-|10|Teleport|
-|12|Disintegrate|
-|14|Expend|
-|16|Temporal Stasis|
-|18|Time Stop|
+| Level | Spell
+| -     | -
+|2      |Ventriloquism
+|4      |Silence
+|6      |Haste
+|8      |Threefold Aspect
+|10     |Teleport
+|12     |Disintegrate
+|14     |Expend
+|16     |Temporal Stasis
+|18     |Time Stop
 
 ### Spells Known
 
-|1|2|3|4|5|6
-|-|-|-|-|-|-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) `Black Tentacles`			    | (9) Suffocation               | (11) `Greater Dispel Magic`
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison`             | (11) `True Seeing`
-(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) Baleful Polymorph        | (12) `Summon Monster VI`
-(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Emergency Force Sphere`	    | (10) `Break Enchantment x2`   | (12) Suggestion Mass
+|1                          |2                          |3                              |4                                  |5                              |6                              | 7
+|-                          |-                          |-                              |-                                  |-                              |-                              |-
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate              | (13) `Heal x2`
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) Suffocation               | (11) `Greater Dispel Magic`   | (13) Plane Shift
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison`             | (11) `True Seeing`            |
+(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) Baleful Polymorph        | (12) `Summon Monster VI`      |
+(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Emergency Force Sphere x3`	| (10) `Break Enchantment x2`   | (12) Suggestion Mass          |
 (1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`	|								    | (P) `Teleport`
 (1) Unseen Servant		    |(B) Levitate
 (2) Ray of Sickening		|(6) Raven's Flight
@@ -130,9 +144,9 @@ Starting Money: 120gp
 (MA) `Shield x2`			|(B) `False Life`
 
 ### Spells Per Day 11
-|Level|0|1|2|3|4|5|6|7|8|9
-|-|-|-|-|-|-|-|-|-|-|-|
-|11|4|5|6|6|5|4|3|-|-|-|
+|Level  |0|1|2|3|4|5|6|7|8|9
+|-      |-|-|-|-|-|-|-|-|-|-|
+|13     |4|5|6|6|6|4|3|2|-|-|
 
 ### Familiar
 - ~~Greensting Scorpion (+4 Initiative)~~
@@ -142,23 +156,23 @@ Starting Money: 120gp
 2 + Int (11)
 | Ranks | Skill | Bonus
 |-|-|-
-|12| Acrobatics                 |+16
-| | Craft  (Int)               |+0
-|12| Diplomacy (Int)            |+26
-|12| Disable Device (Dex)       |+20 (mwk thieves tools)
-|1| Fly (Dex)                   |+7
-| | Heal (Wis)                  |+2
-| | Intimidate (Cha)            |-2
-|12| Knowledge (arcana) (Int)   |+26
-|12| Knowledge (history) (Int)  |+26
-|11| Knowledge (nature) (Int)   |+25
-|12| Knowledge (planes) (Int)   |+26
-|12| Knowledge Religion (Int)   |+23
-|12| Perception (Wis)           |+34 (Alertness)
-| | Profession (Wis)            |+2
-|12| Spellcraft (Int)           |+26
-|12| Stealth (Dex)              |+24
-| | Use Magic Device (Cha)      |-2
+|13| Acrobatics                 |+17
+|  | Craft  (Int)               |+0
+|13| Diplomacy (Int)            |+27
+|13| Disable Device (Dex)       |+21 (mwk thieves tools)
+|1 | Fly (Dex)                  |+7
+|  | Heal (Wis)                 |+2
+|  | Intimidate (Cha)           |-2
+|13| Knowledge (arcana) (Int)   |+27
+|13| Knowledge (history) (Int)  |+27
+|12| Knowledge (nature) (Int)   |+26
+|13| Knowledge (planes) (Int)   |+27
+|13| Knowledge Religion (Int)   |+24
+|13| Perception (Wis)           |+35 (Alertness)
+|  | Profession (Wis)           |+2
+|13| Spellcraft (Int)           |+27
+|13| Stealth (Dex)              |+25
+|  | Use Magic Device (Cha)     |-2
 
 ### Saves
 |Type|Fort|Ref|Will
@@ -174,6 +188,7 @@ Starting Money: 120gp
 |7|Improved Familiar (Ratling)
 |9|Extra Hex (greater gift of consumption)
 |11|Split Hex
+|13|Amplified Hex
 
 ### Hexes
 | Level | Hex |
