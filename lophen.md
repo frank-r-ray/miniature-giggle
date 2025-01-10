@@ -22,14 +22,14 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 13
+Level: 15
 
-- Mythic Fortitude: 3hp per mythic Level (12)
-- Mythic Toughness: 3hp per mythic Level (12)
-- 11 per level (6 (Base) + 3 (Con) + 1 (Favored Class) + 1 (Toughness))
+- Mythic Fortitude: 3hp per mythic Level (18)
+- Mythic Toughness: 3hp per mythic Level (18)
+- 13 per level (6 (Base) + 5 (Con) + 1 (Favored Class) + 1 (Toughness))
 - Don't forget to roll false life
 
-HP: 167
+HP: 231
 
 ### Race: Elf
 - +2 Int
@@ -72,7 +72,7 @@ Point Buy: 30
 |-      |-      |-          |-      |-          |-      |-      |-
 |Int    |17     |+2         |+2     |+6         |       |28     |+9
 |Dex    |16     |+2         |       |           |       |18     |+4
-|Con    |16     |-2         |       |+2         |       |16     |+3
+|Con    |16     |-2         |       |+6         |       |20     |+5
 |Wis    |14     |           |       |           |       |14     |+2
 |Str    |7      |           |       |           |       |7      |-2
 |Cha    |7      |           |       |           |       |7      |-2
@@ -126,27 +126,28 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|1                          |2                          |3                              |4                                  |5                              |6                              | 7
-|-                          |-                          |-                              |-                                  |-                              |-                              |-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate              | (13) `Heal x2`
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) Suffocation               | (11) `Greater Dispel Magic`   | (13) Plane Shift
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison`             | (11) `True Seeing`            |
-(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) Baleful Polymorph        | (12) `Summon Monster VI`      |
-(1) Ear Piercing Scream		|(P) Silence                |(B) Deep Slumber               |(MA) `Emergency Force Sphere x3`	| (10) `Break Enchantment x2`   | (12) Suggestion Mass          |
-(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal`	|								    | (P) `Teleport`
-(1) Unseen Servant		    |(B) Levitate
+|1                          |2                          |3                              |4                                  |5                              |6                              | 7                             |8
+|-                          |-                          |-                              |-                                  |-                              |-                              |-                              |-
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate              | (13) `Heal x2`                | (15) `Maze x3`
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) `Suffocation`             | (11) `Greater Dispel Magic x3`| (13) Plane Shift              | (15) `Ressurection`
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison x2`             | (11) `True Seeing x2`            | (14) `Waves of Exhaustion x3`
+(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) `Baleful Polymorph`        | (12) `Summon Monster VI`      | (14) Mydriatic Spontaneity, Mass
+(1) Ear Piercing Scream		|(P) `Silence`              |(B) Deep Slumber               |(MA) `Emergency Force Sphere x5`	| (10) `Break Enchantment x2`   | (12) Suggestion Mass          | (P) Expend
+(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal x2`	|								    | (P) `Teleport`
+(1) Unseen Servant		    |(B) `Levitate`
 (2) Ray of Sickening		|(6) Raven's Flight
 (2) Ray of Enfeeblement	    |(B) Winters Grasp
 (P) Ventriloquism		    |(B) Boneshaker
 (B) Hex Vulnerability       |(W) `Cure Moderate Wounds`
 (B) Blend                   |(B) ~~`Delay Poison`~~
-(B) Chill Touch             |(MA) `Heroism`
+(B) `Chill Touch x2`        |(MA) `Heroism`
 (MA) `Shield x2`			|(B) `False Life`
 
-### Spells Per Day 11
+(Int 45 with Mythic Spell Abundance)
+### Spells Per Day 15
 |Level  |0|1|2|3|4|5|6|7|8|9
 |-      |-|-|-|-|-|-|-|-|-|-|
-|13     |4|5|6|6|6|4|3|2|-|-|
+|13     |4|8|8|8|8|7|6|5|4|-|
 
 ### Familiar
 - ~~Greensting Scorpion (+4 Initiative)~~
@@ -156,28 +157,28 @@ Starting Money: 120gp
 2 + Int (11)
 | Ranks | Skill | Bonus
 |-|-|-
-|13| Acrobatics                 |+17
+|15| Acrobatics                 |+19
 |  | Craft  (Int)               |+0
-|13| Diplomacy (Int)            |+27
-|13| Disable Device (Dex)       |+21 (mwk thieves tools)
+|15| Diplomacy (Int)            |+29
+|15| Disable Device (Dex)       |+23 (mwk thieves tools)
 |1 | Fly (Dex)                  |+7
 |  | Heal (Wis)                 |+2
 |  | Intimidate (Cha)           |-2
-|13| Knowledge (arcana) (Int)   |+27
-|13| Knowledge (history) (Int)  |+27
+|15| Knowledge (arcana) (Int)   |+29
+|15| Knowledge (history) (Int)  |+29
 |12| Knowledge (nature) (Int)   |+26
-|13| Knowledge (planes) (Int)   |+27
-|13| Knowledge Religion (Int)   |+24
-|13| Perception (Wis)           |+35 (Alertness)
+|15| Knowledge (planes) (Int)   |+29
+|15| Knowledge Religion (Int)   |+26
+|15| Perception (Wis)           |+37 (Alertness)
 |  | Profession (Wis)           |+2
-|13| Spellcraft (Int)           |+27
-|13| Stealth (Dex)              |+25
+|15| Spellcraft (Int)           |+29
+|15| Stealth (Dex)              |+29
 |  | Use Magic Device (Cha)     |-2
 
 ### Saves
 |Type|Fort|Ref|Will
-|-|-|-|-
-|Total|+12|+10|+15
+|-      |-  |-  |-
+|Total  |+15|+11|+18
 
 ### Feats
 | Level | Feat |
@@ -189,6 +190,7 @@ Starting Money: 120gp
 |9|Extra Hex (greater gift of consumption)
 |11|Split Hex
 |13|Amplified Hex
+|15|Improved Initiative
 
 ### Hexes
 | Level | Hex |
@@ -202,6 +204,7 @@ Starting Money: 120gp
 |9|Gift of consumption greater
 |10|Restless Slumber
 |12|Ice Tomb
+|14|Retribution
 
 ### Mythic
 |Level|Type
@@ -210,6 +213,8 @@ Starting Money: 120gp
 |2|Mastermind (+2 Int)
 |3|Mastermind (+2 Int)
 |4|Meaty (+2 Con)
+|5|Meaty (+2 Con)
+|6|Meaty (+2 Con)
 
 ### Mythic Feats
 |Level|Feat
@@ -226,6 +231,12 @@ Starting Money: 120gp
 |Bonus|Mythic Toughness
 |Bonus|Mythic Fortitude
 |Bonus|Extra Feat: Toughness
+|Bonus 2|Mythic Shrug Off
+|Bonus 2|Mythic Spell Abundance
+|Bonus 2|Feat: Iron Will
+|14|Mythic Countenance
+|14|Mythic Spell Abundance
+|14|Feat: Improved Iron Will
 
 ## Notes
 ### Arrived at the Defender's Heart
