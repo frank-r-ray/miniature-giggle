@@ -128,7 +128,7 @@ Starting Money: 120gp
 
 |1                          |2                          |3                              |4                                  |5                              |6                              | 7                             |8
 |-                          |-                          |-                              |-                                  |-                              |-                              |-                              |-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate              | (13) `Heal x2`                | (15) `Maze x3`
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate              | (13) `Heal x2`                | (15) `Heart of the Mammoth x3`
 (1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) `Suffocation`             | (11) `Greater Dispel Magic x3`| (13) Plane Shift              | (15) `Ressurection`
 (1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison x2`             | (11) `True Seeing x2`            | (14) `Waves of Exhaustion x3`
 (1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) `Baleful Polymorph`        | (12) `Summon Monster VI`      | (14) Mydriatic Spontaneity, Mass
@@ -169,7 +169,7 @@ Starting Money: 120gp
 |12| Knowledge (nature) (Int)   |+26
 |15| Knowledge (planes) (Int)   |+29
 |15| Knowledge Religion (Int)   |+26
-|15| Perception (Wis)           |+37 (Alertness)
+|15| Perception (Wis)           |+42 (Alertness, Robe of Eyes)
 |  | Profession (Wis)           |+2
 |15| Spellcraft (Int)           |+29
 |15| Stealth (Dex)              |+29
@@ -372,3 +372,8 @@ Starting Money: 120gp
 |Totals|Amount
 |-|-
 |Remaining|471
+
+### A thousand years later
+Robe of Eyes
+70,000 worth of ressurection materials
+As many wands of infernal healing as 10,000gp gets
