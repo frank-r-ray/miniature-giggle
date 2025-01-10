@@ -126,16 +126,16 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|1                          |2                          |3                              |4                                  |5                              |6                              | 7                             |8
-|-                          |-                          |-                              |-                                  |-                              |-                              |-                              |-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate              | (13) `Heal x2`                | (15) `Heart of the Mammoth x3`
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) `Suffocation`             | (11) `Greater Dispel Magic x3`| (13) Plane Shift              | (15) `Ressurection`
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison x2`             | (11) `True Seeing x2`            | (14) `Waves of Exhaustion x3`
-(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) `Baleful Polymorph`        | (12) `Summon Monster VI`      | (14) Mydriatic Spontaneity, Mass
-(1) Ear Piercing Scream		|(P) `Silence`              |(B) Deep Slumber               |(MA) `Emergency Force Sphere x5`	| (10) `Break Enchantment x2`   | (12) Suggestion Mass          | (P) Expend
-(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal x2`	|								    | (P) `Teleport`
-(1) Unseen Servant		    |(B) `Levitate`
-(2) Ray of Sickening		|(6) Raven's Flight
+|1                          |2                          |3                              |4                                  |5                              |6                         | 7                             |8
+|-                          |-                          |-                              |-                                  |-                              |-                         |-                              |-
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate         | (13) `Heal x2`                | (15) `Heart of the Mammoth`
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) `Suffocation`             | (11) `Greater Dispel Magic`| (13) Plane Shift              | (15) `Ressurection`
+(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison x2`          | (11) `True Seeing x2`    | (14) `Waves of Exhaustion x3`  | (M) `Piercing Mydriatic Spontaneity, Mass x2`
+(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) `Baleful Polymorph`      | (12) Summon Monster VI   | (14) Mydriatic Spontaneity, Mass
+(1) Ear Piercing Scream		|(P) `Silence`              |(B) Deep Slumber               |(MA) `Emergency Force Sphere x5`	| (10) `Break Enchantment x2`   | (12) Suggestion Mass     | (P) Expend
+(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal x2`	|								| (P) `Teleport`                | (M) `Piercing Suffocation`
+(1) Unseen Servant		    |(B) `Levitate`                                                                                                                 | (M) `Piercing Icy Prison`
+(2) Ray of Sickening		|(6) Raven's Flight 
 (2) Ray of Enfeeblement	    |(B) Winters Grasp
 (P) Ventriloquism		    |(B) Boneshaker
 (B) Hex Vulnerability       |(W) `Cure Moderate Wounds`
@@ -190,7 +190,7 @@ Starting Money: 120gp
 |9|Extra Hex (greater gift of consumption)
 |11|Split Hex
 |13|Amplified Hex
-|15|Improved Initiative
+|15|Metamagic Piercing
 
 ### Hexes
 | Level | Hex |
@@ -233,10 +233,10 @@ Starting Money: 120gp
 |Bonus|Extra Feat: Toughness
 |Bonus 2|Mythic Shrug Off
 |Bonus 2|Mythic Spell Abundance
-|Bonus 2|Feat: Iron Will
+|Bonus 2|Feat: Spell Penetration
 |14|Mythic Countenance
 |14|Mythic Spell Abundance
-|14|Feat: Improved Iron Will
+|14|Feat: Greater Spell Penetration
 
 ## Notes
 ### Arrived at the Defender's Heart
@@ -374,6 +374,7 @@ Starting Money: 120gp
 |Remaining|471
 
 ### A thousand years later
-Robe of Eyes
-70,000 worth of ressurection materials
-As many wands of infernal healing as 10,000gp gets
+- 120,000 Robe of Eyes
+- 70,000 worth of ressurection materials
+- 7,500 worth of wands of infernal healing
+- 2,500 worth of scrolls (daylight, some other shits, idk)
