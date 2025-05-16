@@ -22,14 +22,14 @@ No +X Armor/Weapon/Cloak/Stats
 ## Character
 ### Name: Lophen
 
-Level: 15
+Level: 16
 
 - Mythic Fortitude: 3hp per mythic Level (18)
 - Mythic Toughness: 3hp per mythic Level (18)
 - 13 per level (6 (Base) + 5 (Con) + 1 (Favored Class) + 1 (Toughness))
 - Don't forget to roll false life
 
-HP: 231
+HP: 244
 
 ### Race: Elf
 - +2 Int
@@ -68,12 +68,13 @@ HP: 231
 
 ### Stats
 Point Buy: 30
-| Stat  | Score | Racial    | Level | Mythic    | Misc  | Total | Bonus
-|-      |-      |-          |-      |-          |-      |-      |-
-|Int    |17     |+2         |+2     |+6         |       |28     |+9
+
+|Stat|Score|Racial|Level|Mythic|Misc  |Total |Bonus
+|-|-|-|-|-|-|-|-
+|Int    |17     |+2         |+4     |+6         |       |29     |+9 (+11)
 |Dex    |16     |+2         |       |           |       |18     |+4
 |Con    |16     |-2         |       |+6         |       |20     |+5
-|Wis    |14     |           |       |           |       |14     |+2
+|Wis    |14     |           |       |           |       |14     |+2 (+4)
 |Str    |7      |           |       |           |       |7      |-2
 |Cha    |7      |           |       |           |       |7      |-2
 
@@ -126,53 +127,58 @@ Starting Money: 120gp
 
 ### Spells Known
 
-|1                          |2                          |3                              |4                                  |5                              |6                         | 7                             |8
-|-                          |-                          |-                              |-                                  |-                              |-                         |-                              |-
-(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate         | (13) `Heal x2`                | (15) `Heart of the Mammoth`
-(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) `Suffocation`             | (11) `Greater Dispel Magic`| (13) Plane Shift              | (15) `Ressurection`
-(1) Command			        |(4) `Web`                  |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison x2`          | (11) `True Seeing x2`    | (14) `Waves of Exhaustion x3`  | (M) `Piercing Mydriatic Spontaneity, Mass x2`
-(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) `Baleful Polymorph`      | (12) Summon Monster VI   | (14) Mydriatic Spontaneity, Mass
-(1) Ear Piercing Scream		|(P) `Silence`              |(B) Deep Slumber               |(MA) `Emergency Force Sphere x5`	| (10) `Break Enchantment x2`   | (12) Suggestion Mass     | (P) Expend
-(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal x2`	|								| (P) `Teleport`                | (M) `Piercing Suffocation`
+|1                          |2                          |3                              |4                                  |5                              |6                         | 7									|8
+|-                          |-                          |-                              |-                                  |-                              |-                         |-									|-
+(1) ~~`Mage Armor x2`~~		|(3) `Glitterdust`	        |(5) `Fly`                      |(7) ~~`Threefold Aspect`~~		    | (9) Reincarnate               | (P) Disintegrate         | (13) `Heal x2`						| (15) `Heart of the Mammoth`
+(1) Sleep			        |(3) Hold Person            |(5) `Barrow Haze`              |(7) Black Tentacles			    | (9) `Suffocation`             | (11) `Greater Dispel Magic`| (13) Plane Shift					| (15) `Ressurection`
+(1) Command			        |(4) Web	                |(6) Lightning Bolt           	|(8) `Death Ward`				    | (MA) `Icy Prison x2`          | (11) `True Seeing x2`    | (14) `Waves of Exhaustion x3`		| (M) Piercing Mydriatic Spontaneity
+(1) Web Bolt			    |(4) Lipstitch              |(P) `Haste x3`                	|(8) `Confusion`				    | (10) `Baleful Polymorph`      | (12) Summon Monster VI   | (14) Mydriatic Spontaneity, Mass	| (P) Temporal Stasis
+(1) Ear Piercing Scream		|(P) `Silence`              |(B) Deep Slumber               |(MA) `Emergency Force Sphere x4`	| (10) `Break Enchantment x2`   | (12) Suggestion Mass     | (P) Expend							| (16) `Summon Monster VIII`
+(1) ~~`Delay Disease`~~		|(B) Blindness/Deafness     |(MA) `Resist Energy Communal x2`	|								| (P) `Teleport`                | (M) `Piercing Suffocation`|									| (16) `Maze`
 (1) Unseen Servant		    |(B) `Levitate`                                                                                                                 | (M) `Piercing Icy Prison`
 (2) Ray of Sickening		|(6) Raven's Flight 
 (2) Ray of Enfeeblement	    |(B) Winters Grasp
 (P) Ventriloquism		    |(B) Boneshaker
 (B) Hex Vulnerability       |(W) `Cure Moderate Wounds`
-(B) Blend                   |(B) ~~`Delay Poison`~~
+(B) `Blend`                 |(B) ~~`Delay Poison`~~
 (B) `Chill Touch x2`        |(MA) `Heroism`
 (MA) `Shield x2`			|(B) `False Life`
 
 (Int 45 with Mythic Spell Abundance)
 ### Spells Per Day 15
-|Level  |0|1|2|3|4|5|6|7|8|9
-|-      |-|-|-|-|-|-|-|-|-|-|
-|13     |4|8|8|8|8|7|6|5|4|-|
+|Level		|0|1|2|3|4|5|6|7|8|9
+|-			|-|-|-|-|-|-|-|-|-|-|
+|Bonus (37)	|-|4|3|3|3|3|2|2|2|2|
+|Witch (16)	|4|4|4|4|4|4|3|3|2|-|
+|Total		|4|8|7|7|7|7|5|5|4|-|
 
 ### Familiar
 - ~~Greensting Scorpion (+4 Initiative)~~
 - Casio, the Ratling (Casts dimension door and scrolls)
 
 ### Skills
+
 2 + Int (11)
+
 | Ranks | Skill | Bonus
 |-|-|-
-|15| Acrobatics                 |+19
+|16| Acrobatics (Dex)           |+23
 |  | Craft  (Int)               |+0
-|15| Diplomacy (Int)            |+29
-|15| Disable Device (Dex)       |+23 (mwk thieves tools)
+|16| Diplomacy (Int)            |+30
+|16| Disable Device (Dex)       |+25 (mwk thieves tools)
 |1 | Fly (Dex)                  |+7
 |  | Heal (Wis)                 |+2
 |  | Intimidate (Cha)           |-2
-|15| Knowledge (arcana) (Int)   |+29
-|15| Knowledge (history) (Int)  |+29
+|16| Knowledge (arcana) (Int)   |+30
+|16| Knowledge (history) (Int)  |+30
 |12| Knowledge (nature) (Int)   |+26
-|15| Knowledge (planes) (Int)   |+29
-|15| Knowledge Religion (Int)   |+26
-|15| Perception (Wis)           |+42 (Alertness, Robe of Eyes)
+|16| Knowledge (planes) (Int)   |+30
+|16| Knowledge (religion) (Int) |+30
+|3 | Knowledge (dung) (int)		|+14
+|16| Perception (Wis)           |+45 (Alertness, Robe of Eyes)
 |  | Profession (Wis)           |+2
-|15| Spellcraft (Int)           |+29
-|15| Stealth (Dex)              |+29
+|16| Spellcraft (Int)           |+30
+|16| Stealth (Dex)              |+30
 |  | Use Magic Device (Cha)     |-2
 
 ### Saves
@@ -193,9 +199,9 @@ Starting Money: 120gp
 |15|Metamagic Piercing
 
 ### Hexes
-| Level | Hex |
-| ----------- | -----------
-|1|Slumber
+| Level | Hex | DC
+| - | - | -
+|1|Slumber|34 
 |1|Evil Eye
 |2|Cackle
 |4|Gift of consumption
@@ -205,6 +211,7 @@ Starting Money: 120gp
 |10|Restless Slumber
 |12|Ice Tomb
 |14|Retribution
+|16|Regenerative Sinew
 
 ### Mythic
 |Level|Type
